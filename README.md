@@ -50,7 +50,6 @@ Want to contact <a href="https://github.com/CoD3R1337"><b>CoD3R
 ![github stats](https://github-readme-stats.vercel.app/api?username=CoD3R1337&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CoD3R1337&layout=compact&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CoD3R1337&repo=CoD3R&theme=chartreuse-dark" /> <br>
-![github stats](https://github-readme-stats.vercel.app/api?username=CoD3R1337&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CoD3R1337&layout=compact&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CoD3R1337&repo=coder-without&theme=chartreuse-dark" /> <br>
 
