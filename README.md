@@ -51,6 +51,8 @@ Want to contact <a href="https://github.com/CoD3R1337"><b>CoD3R
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CoD3R1337&layout=compact&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CoD3R1337&repo=CoD3R&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CoD3R1337&repo=coder-without&theme=chartreuse-dark" /> <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CoD3R1337&repo=CoD3R-Autopass&theme=chartreuse-dark" /> <br>
+
 
 
 <br><br>
